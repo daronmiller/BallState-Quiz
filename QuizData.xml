@@ -1,0 +1,44 @@
+<quiz>
+    <problem>
+        <question>What is the name of the statue of a woman located in the lobby of the library?</question>
+        <answer status ="correct">The Naked Lady</answer>
+        <answer>The Crazy Lady</answer>
+        <answer>The Cardinal Lady</answer>
+        <answer>The Fancy Lady</answer>
+    </problem>
+    <problem>
+        <question>What is the trail called that leads from behind Robert Bell to behind the Teacher’s College?</question>
+        <answer status ="correct">The Cow Path</answer>
+        <answer>The Cow Trail</answer>
+        <answer>The Cardinal Path</answer>
+        <answer>The Walkway</answer>
+    </problem>
+    <problem>
+        <question>What is the name of the statue of a young girl located in the pond outside Bracken Library?</question>
+        <answer status ="correct">Frog Baby</answer>
+        <answer>Dog Lady</answer>
+        <answer>Cardinal Toddler</answer>
+        <answer>Ball Girl</answer>
+    </problem>
+    <problem>
+        <question>What is Shafer Tower, the tall structure outside Robert Bell, more commonly known as?</question>
+        <answer status ="correct">Bell Tower</answer>
+        <answer>Ball Tower</answer>
+        <answer>Power Tower</answer>
+        <answer>State Tower</answer>
+    </problem>
+    <problem>
+        <question>What is the name of the pond located in front of Johnson Complex?</question>
+        <answer status ="correct">Duck Pond</answer>
+        <answer>Frog Pond</answer>
+        <answer>Goose Pond</answer>
+        <answer>Chicken Pond</answer>
+    </problem>
+    <problem>
+        <question>What is the Ball State motto?</question>
+        <answer status ="correct">We Fly</answer>
+        <answer>No Lie</answer>
+        <answer>You Know It</answer>
+        <answer>Ballin!!!!!</answer>
+    </problem>
+</quiz>
